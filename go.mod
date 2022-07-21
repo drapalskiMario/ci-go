@@ -1,3 +1,3 @@
-module src/math.go
+module src/main
 
 go 1.18
